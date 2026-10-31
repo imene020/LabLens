@@ -12,7 +12,7 @@ short_description: Explain your blood test in English, French, Arabic, Darija
 ---
 
 # 🔬 LabLens
-
+**[▶ Try the live demo](https://huggingface.co/spaces/Imene-ee/LabLens)**
 **Snap a photo of your blood test and understand it in plain language — in English, French, Arabic or Tunisian Darija.**
 
 Millions of people receive lab results they can't read. Across North Africa that usually means waiting days for an appointment, or searching online in a language you only half understand. LabLens reads the report, flags what is out of range using fixed medical rules, explains each result calmly, and prepares the questions to ask your doctor. It never diagnoses.
