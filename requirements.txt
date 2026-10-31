@@ -1,0 +1,11 @@
+gradio>=5.0
+openai>=1.40
+pydantic>=2.6
+pyyaml>=6.0
+rapidfuzz>=3.6
+pdfplumber>=0.11
+pytesseract>=0.3.10
+opencv-python-headless>=4.9
+numpy>=1.26
+pillow>=10.0
+reportlab>=4.0

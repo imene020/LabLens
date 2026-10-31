@@ -1,0 +1,6 @@
+tesseract-ocr
+tesseract-ocr-eng
+tesseract-ocr-fra
+tesseract-ocr-ara
+poppler-utils
+fonts-dejavu-core
